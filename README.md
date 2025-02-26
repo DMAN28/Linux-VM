@@ -3,8 +3,8 @@ This project consists of a guide to walk user through the process of setting up 
 
 <h2>Languages and Utilities Used</h2> 
 
-<b>Operating System: Linux Arch</b>
-<b>Virtualization Software: VirtualBox</b>
-<b>Package Managers: Pacman</b>
-<b>Bash</b>
+- <b>Operating System: Linux Arch</b>
+- <b>Virtualization Software: VirtualBox</b>
+- <b>Package Managers: Pacman</b>
+- <b>Bash</b>
 
